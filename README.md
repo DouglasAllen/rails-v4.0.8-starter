@@ -21,7 +21,7 @@ database rows as objects and embellish these data objects with business logic
 methods. Although most Rails models are backed by a database, models can also
 be ordinary Ruby classes, or Ruby classes that implement a set of interfaces
 as provided by the Active Model module. You can read more about Active Record
-in its [README](activerecord/README.rdoc).
+in its [README](https://github.com/DouglasAllen/rails-v4.0.8-starter/blob/master/vendor/bundle/ruby/2.2.0/gems/activerecord-4.0.8/README.rdoc).
 
 The _Controller layer_ is responsible for handling incoming HTTP requests and
 providing a suitable response. Usually this means returning HTML, but Rails
@@ -33,7 +33,7 @@ In Rails, the Controller and View layers are handled together by Action Pack.
 These two layers are bundled in a single package due to their heavy interdependence.
 This is unlike the relationship between Active Record and Action Pack, which are
 independent. Each of these packages can be used independently outside of Rails. You
-can read more about Action Pack in its [README](actionpack/README.rdoc).
+can read more about Action Pack in its [README](https://github.com/DouglasAllen/rails-v4.0.8-starter/blob/master/vendor/bundle/ruby/2.2.0/gems/actionpack-4.0.8/README.rdoc).
 
 ## Getting Started
 
